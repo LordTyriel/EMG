@@ -1,4 +1,5 @@
 <?php include 'includes/header.php';?>
+test
   <div class="sidebar1">
     <aside>
       <p class="bottom">Side Content Area</p>
