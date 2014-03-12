@@ -1,0 +1,9 @@
+<?php
+	function db_connect_local() 
+		{    
+			//Connection to the localhost sql server on the opentech server defined as a functional variable 
+			$conn = pg_connect("host=localhost port=5432 dbname=paka_db user=paka password=r0m4nc3" ); 
+			  
+			return $conn; 
+		} 
+<php>
