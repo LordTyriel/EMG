@@ -6,10 +6,10 @@ testsssdddsss
     </aside>
   </div>
   <article class="content">
-    <h1>Lorum Ipsum - HomePage</h1>
+    <h1>Evolved Media Group</h1>
     <section>
     <!-- // Only Exampling area here // -->
-     <h2 class="para">Orum Lipsum</h2>
+     <h2 class="para">Highlights</h2>
       <p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas aliquam id quam id consequat. Nullam justo mi, rhoncus ut nisi sit amet, bibendum mollis nisl. Donec malesuada purus et risus placerat, sit amet dapibus mi condimentum. Praesent placerat sollicitudin mauris, sed varius urna aliquet non. Vivamus vel rhoncus nibh. Nunc venenatis sem eget bibendum euismod. In fermentum bibendum velit vitae facilisis. Nulla varius cursus est, sit amet consectetur metus eleifend vel. Pellentesque vehicula facilisis libero non eleifend. Aliquam vitae sapien malesuada, egestas dui a, facilisis augue. Sed dapibus ornare velit quis tincidunt. Ut pharetra diam eget nisi volutpat cursus. Nam ut nulla molestie, ullamcorper ipsum in, fringilla tortor.</p>
     </section>
     <section>
