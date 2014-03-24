@@ -1,16 +1,20 @@
 <?php include 'includes/header.php';?>
-testsssdddsss
-  <div class="sidebar1">
-    <aside>
-      <p class="bottom">Side Content Area</p>
-    </aside>
   </div>
   <article class="content">
     <h1>Evolved Media Group</h1>
     <section>
     <!-- // Only Exampling area here // -->
      <h2 class="para">Highlights</h2>
-      <p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas aliquam id quam id consequat. Nullam justo mi, rhoncus ut nisi sit amet, bibendum mollis nisl. Donec malesuada purus et risus placerat, sit amet dapibus mi condimentum. Praesent placerat sollicitudin mauris, sed varius urna aliquet non. Vivamus vel rhoncus nibh. Nunc venenatis sem eget bibendum euismod. In fermentum bibendum velit vitae facilisis. Nulla varius cursus est, sit amet consectetur metus eleifend vel. Pellentesque vehicula facilisis libero non eleifend. Aliquam vitae sapien malesuada, egestas dui a, facilisis augue. Sed dapibus ornare velit quis tincidunt. Ut pharetra diam eget nisi volutpat cursus. Nam ut nulla molestie, ullamcorper ipsum in, fringilla tortor.</p>
+      <p class="para"><a href="http://evolvedmediagroup.ca/site/2012/04/twist-wonder-dj-pack/"><img width="360" height="225" src="http://evolvedmediagroup.ca/site/wp-content/uploads/2012/04/wonder21-360x225.jpg" class="attachment-slide-home wp-post-image" alt="TWIST – WONDER (DJ PACK)" title="TWIST – WONDER (DJ PACK)" /></a>
+      </p>
+      <p class="para2">
+      <a href="http://evolvedmediagroup.ca/site/category/artists/" title="View all posts in Artists" rel="category tag">Artists</a>
+      &middot; <a href="http://evolvedmediagroup.ca/site/category/media/" title="View all posts in Media" rel="category tag">Media</a> &middot; 
+      <a href="http://evolvedmediagroup.ca/site/category/mp3-downloads/" title="View all posts in Mp3 Downloads" rel="category tag">
+      Mp3 Downloads</a> &middot; 
+      <a href="http://evolvedmediagroup.ca/site/2012/04/twist-wonder-dj-pack/#comments">0 Comments</a> &middot; <a class="url fn n" href="http://evolvedmediagroup.ca/site/author/admin/" title="View all posts by Dell">Dell</a></div>
+      </p>
+      </p>
     </section>
     <section>
       <h2 class="para">More Lorum Ipsum</h2>
